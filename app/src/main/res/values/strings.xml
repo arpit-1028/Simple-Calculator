@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="enter_number">Please enter a number</string>
+    <string name="enter_non_zero">Please enter a non-zero number</string>
+    <string name="result">Result: %1$s</string>
+    <string name="cleared">Cleared</string>
+</resources>
